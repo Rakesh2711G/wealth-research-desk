@@ -29,3 +29,7 @@ You can host these static files on a static hosting service such as GitHub Pages
 - The contact form opens the visitor's email application. It does not send or store form data on a server.
 - Student accounts, a secure quiz database, payment processing and an admin dashboard require a backend or third-party service; they are not included in this static starter.
 - The website is an independent educational project and is not presented as an official NISM website.
+
+
+## Version 3 visual refresh
+This package includes a real visual refresh: dark navy/gold hero, redesigned learning cards, improved quiz/contact styling, logo-led About panel, YouTube contact link, and stylesheet cache-busting (`styles.css?v=3`). Replace the repository files with this version and commit changes.
